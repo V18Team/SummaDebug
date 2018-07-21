@@ -45,7 +45,6 @@ class SummaDebug
         }
 
         static::$enabled = false;
-        //static::unregisterHandlers();
 
         return true;
     }
